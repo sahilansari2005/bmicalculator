@@ -22,6 +22,7 @@ if a == "Metric" or "metric":
             print("You are obese.")
     print("Thank you for using this BMI Calculator.")
 
+
 elif a == "Imperial" or "imperial":
     c = int(input("You have chosen the imperial system. If this is correct, please enter 1. Otherwise, enter 0. "))
     if c == 1:
